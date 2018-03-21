@@ -1,7 +1,7 @@
 {
-    "name": "mavenecommerce/mbootstrap",
+    "name": "timothycoxon/mbootstrap",
     "type": "magento-module",
-    "homepage": "https://github.com/mavenecommerce/mbootstrap",
+    "homepage": "https://github.com/timothycoxon/mbootstrap",
     "description": "Magento theme fully based on the Twitter Bootstrap framework.",
     "minimum-stability": "stable",
     "license": "proprietary",
@@ -18,6 +18,10 @@
         {
             "name": "Chris Jones",
             "email": "chris@studiobanks.com"
+        },
+        {
+            "name": "Timothy Coxon",
+            "email": "timothy.coxon@gmail.com"
         }
     ],
     "require": {
